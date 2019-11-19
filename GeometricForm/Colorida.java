@@ -1,0 +1,5 @@
+interface Colorida {
+	
+	String Desenhar();
+
+}
